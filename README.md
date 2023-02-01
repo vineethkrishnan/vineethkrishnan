@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vineethkrishnan
-- 🌱 I’m currently learning Vue3
+- 🌱 I’m currently learning and experimenting with new technologies
 - 💞️ I’m looking to collaborate on PHP related OSP
 - 📫 How to reach me through way2vinee[at]gmail[dot]com
 
