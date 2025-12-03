@@ -59,15 +59,15 @@ I build things that make life easier — scalable backends, reliable infrastruct
 </a>
 
 <a href="https://github.com/vineethkrishnan/vue-datepicker">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=vue-datepicke&theme=react&hide_border=false" />
+  <img src="https://github-readme-stats-codestackr.vercel.app/api/pin/?username=vineethkrishnan&repo=vue-datepicke&theme=react&hide_border=false" />
 </a>
 
 <a href="https://github.com/vineethkrishnan/jquery.verticalScroll.js">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=jquery.verticalScroll.js&theme=react&hide_border=false" />
+  <img src="https://github-readme-stats-codestackr.vercel.app/api/pin/?username=vineethkrishnan&repo=jquery.verticalScroll.js&theme=react&hide_border=false" />
 </a>
 
 <a href="https://github.com/vineethkrishnan/trafficlog">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=trafficlog&theme=react&hide_border=false" />
+  <img src="https://github-readme-stats-codestackr.vercel.app/api/pin/?username=vineethkrishnan&repo=trafficlog&theme=react&hide_border=false" />
 </a>
 
 </div>
