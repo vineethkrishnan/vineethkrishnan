@@ -55,7 +55,7 @@ I build things that make life easier — scalable backends, reliable infrastruct
 <div align="center">
 
 <a href="https://github.com/vineethkrishnan/docling-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-vineethkrishnan&repo=docling-server&theme=react&hide_border=false" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=docling-server&theme=react&hide_border=false" />
 </a>
 
 <a href="https://github.com/vineethkrishnan/vue-datepicker">
