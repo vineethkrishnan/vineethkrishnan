@@ -39,6 +39,16 @@ I build things that make life easier — scalable backends, reliable infrastruct
 
 ---
 
+## 😂 Random Dev Joke
+
+<div align="center">
+
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder)
+
+</div>
+
+---
+
 ## 🚀 Tech Stack
 
 <div align="center">
