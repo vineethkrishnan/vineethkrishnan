@@ -17,11 +17,25 @@ I build things that make life easier — scalable backends, reliable infrastruct
 ## 🌟 About Me
 
 - Full-stack engineer with strong backend + infrastructure experience
+- Currently working at **Ayunis GmbH** (formerly Locaboo GmbH)
 - Special interest in **NestJS**, **AI Agents**, and **Ollama-based LLM pipelines**
 - Love solving tricky server issues, optimizing systems, and simplifying architecture
 - DevOps enthusiast — Docker, Nginx, CI/CD, Teleport, Netdata
 - Build internal tools, async pipelines, OCR/AI integrations
-- Run a small software engineering podcast about architecture & system design
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vineethkrishnan&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vineethkrishnan&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineethkrishnan&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
@@ -50,7 +64,7 @@ I build things that make life easier — scalable backends, reliable infrastruct
 
 ---
 
-# 🌈 What I Believe
+## 💡 What I Believe
 
 ```
 Simplicity  >  Cleverness
@@ -64,7 +78,9 @@ Root Cause  >  Quick Fix
 
 ## 🧩 Highlights of My Work
 
-- Built Locaboo’s 2D floor plan booking engine
+*At Ayunis GmbH (formerly Locaboo GmbH):*
+
+- Built the 2D floor plan booking engine
 - Led the Vue platform redesign, free-slot module, and UI improvements
 - Rebuilt the Media Manager with Vue
 - Implemented GDPR features, 2FA, and access logs
@@ -75,7 +91,3 @@ Root Cause  >  Quick Fix
 - Integrated **Ollama** LLM workflows and internal **AI Agent pipelines**
 
 ---
-<!---
-vineethkrishnan/vineethkrishnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
