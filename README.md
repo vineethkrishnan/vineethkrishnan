@@ -39,6 +39,22 @@ I build things that make life easier — scalable backends, reliable infrastruct
 
 ---
 
+## 🎮 Play Tic-Tac-Toe With Me!
+
+Click on a cell to make your move (opens an issue):
+
+<div align="center">
+
+| | | |
+|:---:|:---:|:---:|
+| [![Cell 1](https://img.shields.io/badge/1-⬜-lightgrey?style=for-the-badge)](https://github.com/vineethkrishnan/vineethkrishnan/issues/new?title=tictactoe%7Cmove%7C1&body=Click+submit+to+make+your+move!) | [![Cell 2](https://img.shields.io/badge/2-⬜-lightgrey?style=for-the-badge)](https://github.com/vineethkrishnan/vineethkrishnan/issues/new?title=tictactoe%7Cmove%7C2&body=Click+submit+to+make+your+move!) | [![Cell 3](https://img.shields.io/badge/3-⬜-lightgrey?style=for-the-badge)](https://github.com/vineethkrishnan/vineethkrishnan/issues/new?title=tictactoe%7Cmove%7C3&body=Click+submit+to+make+your+move!) |
+| [![Cell 4](https://img.shields.io/badge/4-⬜-lightgrey?style=for-the-badge)](https://github.com/vineethkrishnan/vineethkrishnan/issues/new?title=tictactoe%7Cmove%7C4&body=Click+submit+to+make+your+move!) | [![Cell 5](https://img.shields.io/badge/5-⬜-lightgrey?style=for-the-badge)](https://github.com/vineethkrishnan/vineethkrishnan/issues/new?title=tictactoe%7Cmove%7C5&body=Click+submit+to+make+your+move!) | [![Cell 6](https://img.shields.io/badge/6-⬜-lightgrey?style=for-the-badge)](https://github.com/vineethkrishnan/vineethkrishnan/issues/new?title=tictactoe%7Cmove%7C6&body=Click+submit+to+make+your+move!) |
+| [![Cell 7](https://img.shields.io/badge/7-⬜-lightgrey?style=for-the-badge)](https://github.com/vineethkrishnan/vineethkrishnan/issues/new?title=tictactoe%7Cmove%7C7&body=Click+submit+to+make+your+move!) | [![Cell 8](https://img.shields.io/badge/8-⬜-lightgrey?style=for-the-badge)](https://github.com/vineethkrishnan/vineethkrishnan/issues/new?title=tictactoe%7Cmove%7C8&body=Click+submit+to+make+your+move!) | [![Cell 9](https://img.shields.io/badge/9-⬜-lightgrey?style=for-the-badge)](https://github.com/vineethkrishnan/vineethkrishnan/issues/new?title=tictactoe%7Cmove%7C9&body=Click+submit+to+make+your+move!) |
+
+</div>
+
+---
+
 ## 🚀 Tech Stack
 
 <div align="center">
