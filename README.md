@@ -12,9 +12,7 @@ I build things that make life easier — scalable backends, reliable infrastruct
 
 <div align="center">
 
-### 🚀 Tech Focus
-
-**Backend • DevOps • Vue • NestJS • AI Pipelines • Ollama • Agent Systems**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6AD3F7&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer+%7C+System+Designer;Backend+%E2%80%A2+DevOps+%E2%80%A2+AI+Pipelines;Building+scalable+%26+reliable+systems;Simplicity+over+Cleverness)](https://github.com/vineethkrishnan)
 
 </div>
 
