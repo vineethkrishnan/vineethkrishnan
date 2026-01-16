@@ -1,7 +1,7 @@
 # 👋 Hey, I'm Vineeth
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vineethkrishnan&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=vineethkrishnan&style=flat-square&color=blue&base=1476388465" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/vineethkrishnan?style=flat-square&color=blue" alt="Followers"/>
   <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&color=blue&label=Repos&query=public_repos&url=https://api.github.com/users/vineethkrishnan" alt="Repos"/>
 </p>
