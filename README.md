@@ -37,7 +37,7 @@ I build things that make life easier — scalable backends, reliable infrastruct
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vineethkrishnan&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineethkrishnan&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=vineethkrishnan&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -48,16 +48,6 @@ I build things that make life easier — scalable backends, reliable infrastruct
 <div align="center">
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vineethkrishnan&theme=tokyonight&no-frame=true&row=1&column=7)
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/vineethkrishnan/vineethkrishnan/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
