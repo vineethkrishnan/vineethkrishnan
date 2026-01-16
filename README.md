@@ -67,6 +67,7 @@ I build things that make life easier — scalable backends, reliable infrastruct
 ![CakePHP](https://img.shields.io/badge/CakePHP-D33C43?style=for-the-badge&logo=cakephp&logoColor=white)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Zend](https://img.shields.io/badge/Zend-0679EA?style=for-the-badge&logo=zend&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 
 **Cloud Platforms**
 
