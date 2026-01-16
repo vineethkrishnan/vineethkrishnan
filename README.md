@@ -53,6 +53,16 @@ I build things that make life easier — scalable backends, reliable infrastruct
 
 ---
 
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/vineethkrishnan/vineethkrishnan/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 🚀 Tech Stack
 
 **Languages:**  
