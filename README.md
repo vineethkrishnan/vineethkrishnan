@@ -1,5 +1,9 @@
 # 👋 Hey, I'm Vineeth
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vineethkrishnan&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
 ### Software Engineer • System Designer • DevOps Problem-Solver
 
 I build things that make life easier — scalable backends, reliable infrastructure, clean UIs, and internal tools that quietly solve real problems. I prefer simplicity, stability, and production-ready solutions over theory.
@@ -34,6 +38,26 @@ I build things that make life easier — scalable backends, reliable infrastruct
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vineethkrishnan&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vineethkrishnan&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=vineethkrishnan&theme=tokyonight&no-frame=true&row=1&column=7)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/vineethkrishnan/vineethkrishnan/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
