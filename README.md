@@ -205,6 +205,7 @@ Root Cause  >  Quick Fix
 - Built async pipelines for OCR, Docling, and job queues
 - Deployed Docling Conversion Server with Celery and Flower
 - Integrated **Ollama** LLM workflows and internal **AI Agent pipelines**
+- Implemented several DevOps tools
 
 ---
 
