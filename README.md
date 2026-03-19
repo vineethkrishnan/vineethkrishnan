@@ -39,12 +39,27 @@ I build things that make life easier — scalable backends, reliable infrastruct
 <a href="https://github.com/vineethkrishnan/laravel-kit-with-oauth">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=laravel-kit-with-oauth&theme=tokyonight&hide_border=true" />
 </a>
+<a href="https://github.com/vineethkrishnan/tor-shield">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=tor-shield&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/vineethkrishnan/diskdoc">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=diskdoc&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/vineethkrishnan/dockit">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=dockit&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
 > **[medix](https://github.com/vineethkrishnan/medix)** — A CLI media format converter powered by FFmpeg. Auto-detects system resources, supports 20+ formats, interactive config, batch processing, and real-time progress tracking. `pip install medix`
 >
 > **[laravel-kit-with-oauth](https://github.com/vineethkrishnan/laravel-kit-with-oauth)** — Laravel starter kit bundled with HybridAuth for multi-provider OAuth authentication (Google, Facebook, Twitter, etc.)
+>
+> **[tor-shield](https://github.com/vineethkrishnan/tor-shield)** — Kernel-level Tor exit node firewall for Linux servers using `ipset` + `iptables`, with atomic swaps and automatic rollback.
+>
+> **[diskdoc](https://github.com/vineethkrishnan/diskdoc)** — Interactive disk analysis & cleanup CLI for macOS/Linux built in Rust. Docker-aware with safe, confirmed deletions.
+>
+> **[dockit](https://github.com/vineethkrishnan/dockit)** — Audit-first Docker disk analysis and cleanup CLI built in Go. Classifies resources as SAFE, REVIEW, or PROTECTED before cleanup.
 
 ---
 
