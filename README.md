@@ -21,11 +21,30 @@ I build things that make life easier — scalable backends, reliable infrastruct
 ## 🌟 About Me
 
 - Full-stack engineer with strong backend + infrastructure experience
-- Currently working at **Ayunis GmbH** (formerly Locaboo GmbH)
+- Working at **BEO Software Pvt. Ltd** / **Ayunis GmbH** (formerly Locaboo GmbH)
 - Special interest in **NestJS**, **AI Agents**, and **Ollama-based LLM pipelines**
 - Love solving tricky server issues, optimizing systems, and simplifying architecture
 - DevOps enthusiast — Docker, Nginx, CI/CD, Teleport, Netdata
 - Build internal tools, async pipelines, OCR/AI integrations
+
+---
+
+## 📌 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/vineethkrishnan/medix">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=medix&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/vineethkrishnan/laravel-kit-with-oauth">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=laravel-kit-with-oauth&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+> **[medix](https://github.com/vineethkrishnan/medix)** — A CLI media format converter powered by FFmpeg. Auto-detects system resources, supports 20+ formats, interactive config, batch processing, and real-time progress tracking. `pip install medix`
+>
+> **[laravel-kit-with-oauth](https://github.com/vineethkrishnan/laravel-kit-with-oauth)** — Laravel starter kit bundled with HybridAuth for multi-provider OAuth authentication (Google, Facebook, Twitter, etc.)
 
 ---
 
@@ -76,6 +95,12 @@ I build things that make life easier — scalable backends, reliable infrastruct
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![Zend](https://img.shields.io/badge/Zend-0679EA?style=for-the-badge&logo=zend&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
+
+**Systems & CLI**
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
 **Cloud Platforms**
 
@@ -206,6 +231,36 @@ Root Cause  >  Quick Fix
 - Deployed Docling Conversion Server with Celery and Flower
 - Integrated **Ollama** LLM workflows and internal **AI Agent pipelines**
 - Implemented several DevOps tools
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vineethkrishnan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vineethkrishnan&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineethkrishnan&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/vineethnk.in-000000?style=for-the-badge&logo=safari&logoColor=white)](https://vineethnk.in)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@vineethnk.in)
+[![Twitter](https://img.shields.io/badge/@way2vineeth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/way2vineeth)
+[![GitHub](https://img.shields.io/badge/vineethkrishnan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vineethkrishnan)
+
+</div>
 
 ---
 
