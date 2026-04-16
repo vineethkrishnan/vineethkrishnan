@@ -87,87 +87,52 @@ I build things that make life easier — scalable backends, reliable infrastruct
 
 ## 🚀 Tech Stack
 
-<div align="center">
-
-**Frontend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Systems & CLI**
-
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-**Cloud Platforms**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white)
-
-**CI/CD**
-
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-**Infrastructure & DevOps**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Teleport](https://img.shields.io/badge/Teleport-512FC9?style=for-the-badge&logo=teleport&logoColor=white)
-
-**Monitoring & Logging**
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
-![Netdata](https://img.shields.io/badge/Netdata-00AB44?style=for-the-badge&logo=netdata&logoColor=white)
-
-**Databases & Caching**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
-
-**Message Queues & Real-time**
-
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
-**Testing**
-
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white)
-![Pest](https://img.shields.io/badge/Pest-F28D1A?style=for-the-badge&logo=php&logoColor=white)
-
-**AI & LLM**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-
-</div>
+<table>
+  <tr>
+    <td><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,php,laravel&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=ts,vue,react,tailwind&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><b>Systems &amp; CLI</b></td>
+    <td><img src="https://skillicons.dev/icons?i=rust,go,bash&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><b>Cloud</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" /> <sub>· Hetzner</sub></td>
+  </tr>
+  <tr>
+    <td><b>CI / CD</b></td>
+    <td><img src="https://skillicons.dev/icons?i=githubactions,jenkins&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><b>Infra &amp; DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,nginx,terraform,ansible,cloudflare&theme=dark" /> <sub>· Teleport</sub></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" /> <sub>· Celery</sub></td>
+  </tr>
+  <tr>
+    <td><b>Messaging</b></td>
+    <td><img src="https://skillicons.dev/icons?i=rabbitmq,kafka,socketio&theme=dark" /></td>
+  </tr>
+  <tr>
+    <td><b>Monitoring</b></td>
+    <td><img src="https://skillicons.dev/icons?i=grafana,prometheus,sentry&theme=dark" /> <sub>· Netdata</sub></td>
+  </tr>
+  <tr>
+    <td><b>Testing</b></td>
+    <td><img src="https://skillicons.dev/icons?i=jest,cypress&theme=dark" /> <sub>· PHPUnit · Pest</sub></td>
+  </tr>
+  <tr>
+    <td><b>AI &amp; LLM</b></td>
+    <td><sub>OpenAI · Anthropic (Claude) · Ollama · Hugging Face · Gemini</sub></td>
+  </tr>
+</table>
 
 ---
 
