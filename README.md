@@ -126,7 +126,7 @@ I build things that make life easier — scalable backends, reliable infrastruct
   </tr>
   <tr>
     <td><b>Testing</b></td>
-    <td><img src="https://skillicons.dev/icons?i=jest,cypress&theme=dark" /> <sub>· PHPUnit · Pest</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=jest,cypress,pytest&theme=dark" /> <sub>· PHPUnit · Pest</sub></td>
   </tr>
   <tr>
     <td><b>AI &amp; LLM</b></td>
