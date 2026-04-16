@@ -62,9 +62,6 @@ I build things that make life easier — scalable backends, reliable infrastruct
 <a href="https://github.com/vineethkrishnan/diskdoc">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=diskdoc&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/vineethkrishnan/dockit">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=dockit&theme=tokyonight&hide_border=true" />
-</a>
 
 </div>
 
@@ -75,8 +72,6 @@ I build things that make life easier — scalable backends, reliable infrastruct
 > **[tor-shield](https://github.com/vineethkrishnan/tor-shield)** — Kernel-level Tor exit node firewall for Linux servers using `ipset` + `iptables`, with atomic swaps and automatic rollback.
 >
 > **[diskdoc](https://github.com/vineethkrishnan/diskdoc)** — Interactive disk analysis & cleanup CLI for macOS/Linux built in Rust. Docker-aware with safe, confirmed deletions.
->
-> **[dockit](https://github.com/vineethkrishnan/dockit)** — Audit-first Docker disk analysis and cleanup CLI built in Go. Classifies resources as SAFE, REVIEW, or PROTECTED before cleanup.
 
 ---
 
