@@ -87,50 +87,109 @@ I build things that make life easier — scalable backends, reliable infrastruct
 
 ## 🚀 Tech Stack
 
-<table>
+<table width="100%">
   <tr>
-    <td><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,nestjs,python,fastapi,php,laravel&theme=dark" /></td>
+    <td width="180"><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,vue,react,tailwind&theme=dark" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td><b>Systems &amp; CLI</b></td>
-    <td><img src="https://skillicons.dev/icons?i=rust,go,bash&theme=dark" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td><b>Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" /> <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td><b>CI / CD</b></td>
-    <td><img src="https://skillicons.dev/icons?i=githubactions,jenkins&theme=dark" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td><b>Infra &amp; DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,nginx,terraform,ansible,cloudflare&theme=dark" /> <img src="https://img.shields.io/badge/Teleport-512FC9?style=for-the-badge&logo=teleport&logoColor=white" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+      <img src="https://img.shields.io/badge/Teleport-512FC9?style=for-the-badge&logo=teleport&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" /> <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td><b>Messaging</b></td>
-    <td><img src="https://skillicons.dev/icons?i=rabbitmq,kafka&theme=dark" /> <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td><b>Monitoring</b></td>
-    <td><img src="https://skillicons.dev/icons?i=grafana,prometheus,sentry&theme=dark" /> <img src="https://img.shields.io/badge/Netdata-00AB44?style=for-the-badge&logo=netdata&logoColor=white" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+      <img src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white" />
+      <img src="https://img.shields.io/badge/Netdata-00AB44?style=for-the-badge&logo=netdata&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td><b>Testing</b></td>
-    <td><img src="https://skillicons.dev/icons?i=jest,cypress,pytest&theme=dark" /> <img src="https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Pest-F28D1A?style=for-the-badge&logo=pestphp&logoColor=white" /> <img src="https://img.shields.io/badge/Bats-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /> <img src="https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+      <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+      <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+      <img src="https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white" />
+      <img src="https://img.shields.io/badge/Pest-F28D1A?style=for-the-badge&logo=pestphp&logoColor=white" />
+      <img src="https://img.shields.io/badge/Bats-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+      <img src="https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    </td>
   </tr>
   <tr>
     <td><b>AI &amp; LLM</b></td>
-    <td><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" /></td>
+    <td>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+    </td>
   </tr>
 </table>
 
