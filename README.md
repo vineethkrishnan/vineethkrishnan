@@ -153,12 +153,6 @@ I build things that make life easier — scalable backends, reliable infrastruct
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 ![Azure Service Bus](https://img.shields.io/badge/Azure_Service_Bus-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-**API & Documentation**
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-
 **Testing**
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
