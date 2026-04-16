@@ -20,12 +20,12 @@ I build things that make life easier — scalable backends, reliable infrastruct
 
 ## 🌟 About Me
 
-- Full-stack engineer with strong backend + infrastructure experience
-- Working at **BEO Software Pvt. Ltd** / **Ayunis GmbH** (formerly Locaboo GmbH)
-- Special interest in **NestJS**, **AI Agents**, and **Ollama-based LLM pipelines**
-- Love solving tricky server issues, optimizing systems, and simplifying architecture
-- DevOps enthusiast — Docker, Nginx, CI/CD, Teleport, Netdata
-- Build internal tools, async pipelines, OCR/AI integrations
+- Full-stack engineer with strong backend and infrastructure experience
+- Currently at **BEO Software Pvt. Ltd** / **Ayunis GmbH** (formerly Locaboo GmbH)
+- Focused on **NestJS**, **AI Agents**, and **Ollama-based LLM pipelines**
+- Enjoy simplifying architecture and making systems calm, observable, and reliable
+- Comfortable across DevOps — Docker, Nginx, CI/CD, Teleport, Netdata
+- Regularly build internal tools, async pipelines, and OCR/AI integrations
 
 ---
 
