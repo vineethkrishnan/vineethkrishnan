@@ -6,9 +6,9 @@
   <img src="https://img.shields.io/badge/dynamic/json?style=flat-square&color=blue&label=Repos&query=public_repos&url=https://api.github.com/users/vineethkrishnan" alt="Repos"/>
 </p>
 
-### Software Engineer • System Designer • DevOps Problem-Solver
+### Software Engineer • System Designer • DevOps Practitioner
 
-I build things that make life easier — scalable backends, reliable infrastructure, clean UIs, and internal tools that quietly solve real problems. I prefer simplicity, stability, and production-ready solutions over theory.
+I build things that make life easier — scalable backends, reliable infrastructure, clean UIs, and internal tools that quietly do their job. I care about simplicity, stability, and production-ready solutions that hold up over time.
 
 <div align="center">
 
