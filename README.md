@@ -29,6 +29,23 @@ I build things that make life easier — scalable backends, reliable infrastruct
 
 ---
 
+## 🧩 Highlights of My Work
+
+*At Ayunis GmbH (formerly Locaboo GmbH):*
+
+- Built the 2D floor plan booking engine.
+- Led the Vue platform redesign, free-slot module, and UI improvements.
+- Rebuilt the Media Manager with Vue
+- Implemented GDPR features, 2FA, and access logs.
+- Designed holiday tariffs, pricing logic, and accounting updates.
+- Deployed the AI Agent Service (Docker + Nginx + Teleport).
+- Built async pipelines for OCR, Docling, and job queues.
+- Deployed Docling Conversion Server with Celery and Flower.
+- Integrated **Ollama** LLM workflows and internal **AI Agent pipelines**
+- Implemented several DevOps tools.
+
+---
+
 ## 📌 Featured Projects
 
 <div align="center">
@@ -219,23 +236,6 @@ Logs        >  Opinions
 Automation  >  Repetition
 Root Cause  >  Quick Fix
 ```
-
----
-
-## 🧩 Highlights of My Work
-
-*At Ayunis GmbH (formerly Locaboo GmbH):*
-
-- Built the 2D floor plan booking engine.
-- Led the Vue platform redesign, free-slot module, and UI improvements.
-- Rebuilt the Media Manager with Vue
-- Implemented GDPR features, 2FA, and access logs.
-- Designed holiday tariffs, pricing logic, and accounting updates.
-- Deployed the AI Agent Service (Docker + Nginx + Teleport).
-- Built async pipelines for OCR, Docling, and job queues.
-- Deployed Docling Conversion Server with Celery and Flower.
-- Integrated **Ollama** LLM workflows and internal **AI Agent pipelines**
-- Implemented several DevOps tools.
 
 ---
 
