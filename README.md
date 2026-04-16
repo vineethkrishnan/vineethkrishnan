@@ -126,7 +126,7 @@ I build things that make life easier — scalable backends, reliable infrastruct
   </tr>
   <tr>
     <td><b>Testing</b></td>
-    <td><img src="https://skillicons.dev/icons?i=jest,cypress,pytest&theme=dark" /> <img src="https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Pest-F28D1A?style=for-the-badge&logo=pestphp&logoColor=white" /></td>
+    <td><img src="https://skillicons.dev/icons?i=jest,cypress,pytest&theme=dark" /> <img src="https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white" /> <img src="https://img.shields.io/badge/Pest-F28D1A?style=for-the-badge&logo=pestphp&logoColor=white" /> <img src="https://img.shields.io/badge/Bats-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" /></td>
   </tr>
   <tr>
     <td><b>AI &amp; LLM</b></td>
