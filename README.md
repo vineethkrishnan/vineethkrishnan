@@ -29,6 +29,18 @@ I build things that make life easier — scalable backends, reliable infrastruct
 
 ---
 
+## 💡 What I Believe
+
+```
+Simplicity  >  Cleverness
+Stability   >  Micro-optimizations
+Logs        >  Opinions
+Automation  >  Repetition
+Root Cause  >  Quick Fix
+```
+
+---
+
 ## 🧩 Highlights of My Work
 
 *At Ayunis GmbH (formerly Locaboo GmbH):*
@@ -182,18 +194,6 @@ I build things that make life easier — scalable backends, reliable infrastruct
     </td>
   </tr>
 </table>
-
----
-
-## 💡 What I Believe
-
-```
-Simplicity  >  Cleverness
-Stability   >  Micro-optimizations
-Logs        >  Opinions
-Automation  >  Repetition
-Root Cause  >  Quick Fix
-```
 
 ---
 
