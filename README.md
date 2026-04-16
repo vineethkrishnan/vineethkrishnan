@@ -70,8 +70,8 @@ Root Cause  >  Quick Fix
 <a href="https://github.com/vineethkrishnan/medix">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=medix&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/vineethkrishnan/laravel-kit-with-oauth">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=laravel-kit-with-oauth&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/vineethkrishnan/mcp-pool">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=mcp-pool&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/vineethkrishnan/tor-shield">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=tor-shield&theme=tokyonight&hide_border=true" />
@@ -85,8 +85,8 @@ Root Cause  >  Quick Fix
 > **[medix](https://github.com/vineethkrishnan/medix)** — A CLI media format converter powered by FFmpeg. Auto-detects system resources, supports 20+ formats, interactive config, batch processing, and real-time progress tracking. `pip install medix`
 > <br/>*Built with: Python · FFmpeg · Click*
 >
-> **[laravel-kit-with-oauth](https://github.com/vineethkrishnan/laravel-kit-with-oauth)** — Laravel starter kit bundled with HybridAuth for multi-provider OAuth authentication (Google, Facebook, Twitter, etc.)
-> <br/>*Built with: PHP · Laravel · HybridAuth*
+> **[mcp-pool](https://github.com/vineethkrishnan/mcp-pool)** — A curated collection of Model Context Protocol (MCP) servers for popular SaaS platforms — Stripe, Sentry, Notion, Linear, Datadog, Vercel, PagerDuty, HubSpot, Intercom, Shopify, Google Workspace.
+> <br/>*Built with: TypeScript · MCP · Node.js*
 >
 > **[tor-shield](https://github.com/vineethkrishnan/tor-shield)** — Kernel-level Tor exit node firewall for Linux servers using `ipset` + `iptables`, with atomic swaps and automatic rollback.
 > <br/>*Built with: Bash · ipset · iptables*
