@@ -118,7 +118,7 @@ I build things that make life easier — scalable backends, reliable infrastruct
   </tr>
   <tr>
     <td><b>Messaging</b></td>
-    <td><img src="https://skillicons.dev/icons?i=rabbitmq,kafka,socketio&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=rabbitmq,kafka&theme=dark" /> <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" /></td>
   </tr>
   <tr>
     <td><b>Monitoring</b></td>
