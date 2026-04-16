@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Vineeth
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19,24,30&height=160&section=header&text=Hey%2C%20I'm%20Vineeth&fontSize=50&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vineethkrishnan&style=flat-square&color=blue&base=2343294" alt="Profile Views"/>
