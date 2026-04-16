@@ -102,7 +102,7 @@ I build things that make life easier — scalable backends, reliable infrastruct
   </tr>
   <tr>
     <td><b>Cloud</b></td>
-    <td><img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" /> <sub>· Hetzner</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,azure,gcp&theme=dark" /> <img src="https://img.shields.io/badge/Hetzner-D50C2D?style=for-the-badge&logo=hetzner&logoColor=white" /></td>
   </tr>
   <tr>
     <td><b>CI / CD</b></td>
