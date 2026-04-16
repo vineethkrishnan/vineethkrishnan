@@ -83,12 +83,16 @@ Root Cause  >  Quick Fix
 </div>
 
 > **[medix](https://github.com/vineethkrishnan/medix)** — A CLI media format converter powered by FFmpeg. Auto-detects system resources, supports 20+ formats, interactive config, batch processing, and real-time progress tracking. `pip install medix`
+> <br/>*Built with: Python · FFmpeg · Click*
 >
 > **[laravel-kit-with-oauth](https://github.com/vineethkrishnan/laravel-kit-with-oauth)** — Laravel starter kit bundled with HybridAuth for multi-provider OAuth authentication (Google, Facebook, Twitter, etc.)
+> <br/>*Built with: PHP · Laravel · HybridAuth*
 >
 > **[tor-shield](https://github.com/vineethkrishnan/tor-shield)** — Kernel-level Tor exit node firewall for Linux servers using `ipset` + `iptables`, with atomic swaps and automatic rollback.
+> <br/>*Built with: Bash · ipset · iptables*
 >
 > **[diskdoc](https://github.com/vineethkrishnan/diskdoc)** — Interactive disk analysis & cleanup CLI for macOS/Linux built in Rust. Docker-aware with safe, confirmed deletions.
+> <br/>*Built with: Rust · Tokio · Clap*
 
 ---
 
