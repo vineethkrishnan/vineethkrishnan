@@ -122,7 +122,7 @@ I build things that make life easier — scalable backends, reliable infrastruct
   </tr>
   <tr>
     <td><b>Monitoring</b></td>
-    <td><img src="https://skillicons.dev/icons?i=grafana,prometheus,sentry&theme=dark" /> <sub>· Netdata</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=grafana,prometheus,sentry&theme=dark" /> <img src="https://img.shields.io/badge/Netdata-00AB44?style=for-the-badge&logo=netdata&logoColor=white" /></td>
   </tr>
   <tr>
     <td><b>Testing</b></td>
