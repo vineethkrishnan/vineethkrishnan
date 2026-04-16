@@ -45,16 +45,21 @@ Root Cause  >  Quick Fix
 
 *At Ayunis GmbH (formerly Locaboo GmbH):*
 
+**Product & Features**
 - Built the 2D floor plan booking engine.
 - Led the Vue platform redesign, free-slot module, and UI improvements.
-- Rebuilt the Media Manager with Vue
-- Implemented GDPR features, 2FA, and access logs.
+- Rebuilt the Media Manager with Vue.
 - Designed holiday tariffs, pricing logic, and accounting updates.
+- Implemented GDPR features, 2FA, and access logs.
+
+**AI & Automation**
 - Deployed the AI Agent Service (Docker + Nginx + Teleport).
 - Built async pipelines for OCR, Docling, and job queues.
 - Deployed Docling Conversion Server with Celery and Flower.
-- Integrated **Ollama** LLM workflows and internal **AI Agent pipelines**
-- Implemented several DevOps tools.
+- Integrated **Ollama** LLM workflows and internal **AI Agent pipelines**.
+
+**Infrastructure & Reliability**
+- Implemented several internal DevOps tools.
 
 ---
 
