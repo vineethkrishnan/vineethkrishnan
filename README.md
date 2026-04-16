@@ -185,16 +185,6 @@ I build things that make life easier — scalable backends, reliable infrastruct
 ![Google Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Meta](https://img.shields.io/badge/LLaMA-0467DF?style=for-the-badge&logo=meta&logoColor=white)
 
-**Build Tools**
-
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-**CMS & E-commerce**
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Shopware](https://img.shields.io/badge/Shopware-189EFF?style=for-the-badge&logo=shopware&logoColor=white)
-
 </div>
 
 ---
