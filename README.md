@@ -110,7 +110,7 @@ I build things that make life easier — scalable backends, reliable infrastruct
   </tr>
   <tr>
     <td><b>Infra &amp; DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=docker,nginx,terraform,ansible,cloudflare&theme=dark" /> <sub>· Teleport</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=docker,nginx,terraform,ansible,cloudflare&theme=dark" /> <img src="https://img.shields.io/badge/Teleport-512FC9?style=for-the-badge&logo=teleport&logoColor=white" /></td>
   </tr>
   <tr>
     <td><b>Databases</b></td>
