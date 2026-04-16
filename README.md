@@ -157,11 +157,8 @@ I build things that make life easier — scalable backends, reliable infrastruct
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-3776AB?style=for-the-badge&logo=php&logoColor=white)
 ![Pest](https://img.shields.io/badge/Pest-F28D1A?style=for-the-badge&logo=php&logoColor=white)
-![Codeception](https://img.shields.io/badge/Codeception-6B47DC?style=for-the-badge&logo=php&logoColor=white)
-![Dusk](https://img.shields.io/badge/Laravel_Dusk-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 **AI & LLM**
 
