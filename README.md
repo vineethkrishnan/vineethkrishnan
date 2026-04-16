@@ -114,7 +114,7 @@ I build things that make life easier — scalable backends, reliable infrastruct
   </tr>
   <tr>
     <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" /> <sub>· Celery</sub></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,postgres,redis&theme=dark" /> <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" /></td>
   </tr>
   <tr>
     <td><b>Messaging</b></td>
