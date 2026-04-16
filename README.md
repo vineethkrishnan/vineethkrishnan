@@ -75,16 +75,6 @@ I build things that make life easier — scalable backends, reliable infrastruct
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/vineethkrishnan/vineethkrishnan/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
 ## 🚀 Tech Stack
 
 <table width="100%">
@@ -219,6 +209,14 @@ Root Cause  >  Quick Fix
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineethkrishnan&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+
+</div>
+
+### 🐍 Contribution Graph
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/vineethkrishnan/vineethkrishnan/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
