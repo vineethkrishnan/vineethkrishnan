@@ -229,6 +229,7 @@ Root Cause  >  Quick Fix
 <div align="center">
 
 [![Website](https://img.shields.io/badge/vineethnk.in-000000?style=for-the-badge&logo=safari&logoColor=white)](https://vineethnk.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vineeth-n-k-40891265/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@vineethnk.in)
 [![Twitter](https://img.shields.io/badge/@way2vineeth-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/way2vineeth)
 [![GitHub](https://img.shields.io/badge/vineethkrishnan-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vineethkrishnan)
