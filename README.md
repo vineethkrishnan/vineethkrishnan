@@ -231,6 +231,18 @@ Root Cause  >  Quick Fix
 
 ---
 
+## 📦 Open Source
+
+<div align="center">
+
+[![PyPI - medix](https://img.shields.io/pypi/v/medix?style=for-the-badge&logo=pypi&logoColor=white&label=medix%20on%20PyPI&color=3775A9)](https://pypi.org/project/medix/)
+[![medix downloads](https://img.shields.io/pypi/dm/medix?style=for-the-badge&logo=pypi&logoColor=white&label=downloads&color=3775A9)](https://pypi.org/project/medix/)
+[![All Repositories](https://img.shields.io/badge/All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vineethkrishnan?tab=repositories)
+
+</div>
+
+---
+
 ## 🌐 Connect with Me
 
 <div align="center">
