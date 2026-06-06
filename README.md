@@ -68,16 +68,16 @@ Root Cause  >  Quick Fix
 <div align="center">
 
 <a href="https://github.com/vineethkrishnan/medix">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=medix&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-chi-eight-82.vercel.app/api/pin/?username=vineethkrishnan&repo=medix&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/vineethkrishnan/mcp-pool">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=mcp-pool&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-chi-eight-82.vercel.app/api/pin/?username=vineethkrishnan&repo=mcp-pool&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/vineethkrishnan/tor-shield">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=tor-shield&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-chi-eight-82.vercel.app/api/pin/?username=vineethkrishnan&repo=tor-shield&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/vineethkrishnan/diskdoc">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=vineethkrishnan&repo=diskdoc&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-chi-eight-82.vercel.app/api/pin/?username=vineethkrishnan&repo=diskdoc&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -210,14 +210,14 @@ Root Cause  >  Quick Fix
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vineethkrishnan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
+<img src="https://github-readme-stats-chi-eight-82.vercel.app/api?username=vineethkrishnan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vineethkrishnan&theme=tokyonight&hide_border=true" height="170" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vineethkrishnan&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img src="https://github-readme-stats-chi-eight-82.vercel.app/api/top-langs/?username=vineethkrishnan&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
 
 </div>
 
