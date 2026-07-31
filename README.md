@@ -32,7 +32,7 @@ pip install medix
 ## Contribution activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats-ashy-eight.vercel.app/?user=vineethkrishnan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=vineethkrishnan&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ![GitHub contribution graph](https://raw.githubusercontent.com/vineethkrishnan/vineethkrishnan/output/github-contribution-grid-snake-dark.svg)
