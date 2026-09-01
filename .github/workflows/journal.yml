@@ -1,0 +1,55 @@
+name: Daily Journal
+
+on:
+  schedule:
+    - cron: "0 1 * * *" # 06:30 IST, logs the IST day that just ended
+  workflow_dispatch:
+    inputs:
+      date:
+        description: "IST date to log (YYYY-MM-DD). Defaults to yesterday."
+        required: false
+        type: string
+
+permissions:
+  contents: read
+
+concurrency:
+  group: daily-journal
+  cancel-in-progress: false
+
+jobs:
+  log:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.JOURNAL_PAT }}
+
+      - name: Write journal entry
+        id: journal
+        env:
+          GITHUB_TOKEN: ${{ secrets.JOURNAL_PAT }}
+          TARGET_DATE: ${{ inputs.date }}
+        run: |
+          if [ -n "$TARGET_DATE" ]; then
+            python3 scripts/journal.py --date "$TARGET_DATE"
+          else
+            python3 scripts/journal.py
+          fi
+
+      - name: Commit and push
+        env:
+          ENTRY_DATE: ${{ steps.journal.outputs.date }}
+        run: |
+          git config user.name "Vineeth N K"
+          git config user.email "vineethkrishnan007@gmail.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No change for $ENTRY_DATE, nothing to commit."
+            exit 0
+          fi
+          git commit -m "docs(journal): log activity for $ENTRY_DATE"
+          git push
