@@ -262,9 +262,19 @@ def upsert(path, target_date, entry):
     if section.search(existing):
         updated = section.sub(lambda _: entry + "\n", existing, count=1)
     else:
-        updated = existing.rstrip() + "\n\n" + entry
+        updated = insert_in_date_order(existing, target_date, entry)
 
     path.write_text(updated.rstrip() + "\n")
+
+
+ENTRY_HEADING = re.compile(r"^## (\d{4}-\d{2}-\d{2})", re.MULTILINE)
+
+
+def insert_in_date_order(existing, target_date, entry):
+    for match in ENTRY_HEADING.finditer(existing):
+        if match.group(1) > target_date.isoformat():
+            return existing[: match.start()].rstrip() + "\n\n" + entry + "\n" + existing[match.start() :]
+    return existing.rstrip() + "\n\n" + entry
 
 
 def main():
