@@ -40,8 +40,9 @@ jobs:
             python3 scripts/journal.py
           fi
 
-      - name: Commit and push
+      - name: Open a pull request and let it merge itself
         env:
+          GH_TOKEN: ${{ secrets.JOURNAL_PAT }}
           ENTRY_DATE: ${{ steps.journal.outputs.date }}
         run: |
           git config user.name "Vineeth N K"
@@ -51,5 +52,18 @@ jobs:
             echo "No change for $ENTRY_DATE, nothing to commit."
             exit 0
           fi
+
+          branch="journal/$ENTRY_DATE"
+          git switch -c "$branch"
           git commit -m "docs(journal): log activity for $ENTRY_DATE"
-          git push
+          git push --force --set-upstream origin "$branch"
+
+          if ! gh pr view "$branch" --json number >/dev/null 2>&1; then
+            gh pr create \
+              --base main \
+              --head "$branch" \
+              --title "docs(journal): log activity for $ENTRY_DATE" \
+              --body "Automated activity log for $ENTRY_DATE, written by \`scripts/journal.py\`. Merges itself once the checks pass."
+          fi
+
+          gh pr merge "$branch" --auto --squash --delete-branch
