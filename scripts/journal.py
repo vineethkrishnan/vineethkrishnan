@@ -68,8 +68,8 @@ def request_json(url, token, method="GET", payload=None):
         return json.load(response)
 
 
-def last_complete_ist_date():
-    return (datetime.now(IST) - timedelta(days=1)).date()
+def current_ist_date():
+    return datetime.now(IST).date()
 
 
 def utc_window(target_date):
@@ -279,7 +279,7 @@ def insert_in_date_order(existing, target_date, entry):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--date", help="IST date to log, YYYY-MM-DD (default: yesterday in IST)")
+    parser.add_argument("--date", help="IST date to log, YYYY-MM-DD (default: today in IST)")
     parser.add_argument("--dry-run", action="store_true", help="print the entry instead of writing it")
     arguments = parser.parse_args()
 
@@ -287,7 +287,7 @@ def main():
     if not token:
         raise SystemExit("GITHUB_TOKEN is not set")
 
-    target_date = date.fromisoformat(arguments.date) if arguments.date else last_complete_ist_date()
+    target_date = date.fromisoformat(arguments.date) if arguments.date else current_ist_date()
     window_start, window_end = utc_window(target_date)
 
     collection = fetch_contributions(token, window_start, window_end)
