@@ -2,11 +2,11 @@ name: Daily Journal
 
 on:
   schedule:
-    - cron: "0 1 * * *" # 06:30 IST, logs the IST day that just ended
+    - cron: "30 17 * * *" # 23:00 IST, logs the IST day in progress
   workflow_dispatch:
     inputs:
       date:
-        description: "IST date to log (YYYY-MM-DD). Defaults to yesterday."
+        description: "IST date to log (YYYY-MM-DD). Defaults to today."
         required: false
         type: string
 
