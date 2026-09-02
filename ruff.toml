@@ -1,0 +1,2 @@
+[lint]
+extend-select = ["I", "UP", "B", "SIM", "RUF"]
