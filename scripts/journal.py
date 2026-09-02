@@ -76,7 +76,9 @@ def utc_window(target_date):
     start = datetime.combine(target_date, time.min, tzinfo=IST)
     end = start + timedelta(days=1) - timedelta(seconds=1)
     stamp = "%Y-%m-%dT%H:%M:%SZ"
-    return start.astimezone(timezone.utc).strftime(stamp), end.astimezone(timezone.utc).strftime(stamp)
+    return start.astimezone(timezone.utc).strftime(stamp), end.astimezone(timezone.utc).strftime(
+        stamp
+    )
 
 
 def fetch_contributions(token, window_start, window_end):
@@ -84,7 +86,10 @@ def fetch_contributions(token, window_start, window_end):
         f"{API_ROOT}/graphql",
         token,
         method="POST",
-        payload={"query": CONTRIBUTIONS_QUERY, "variables": {"from": window_start, "to": window_end}},
+        payload={
+            "query": CONTRIBUTIONS_QUERY,
+            "variables": {"from": window_start, "to": window_end},
+        },
     )
     if result.get("errors"):
         raise SystemExit(f"GraphQL error: {json.dumps(result['errors'])}")
@@ -140,7 +145,9 @@ def collect(token, collection, window_start, window_end):
         if listed_count == 0 and not subjects:
             continue
         named_repositories.append(name)
-        commit_repositories.append({"repository": name, "count": listed_count, "subjects": subjects})
+        commit_repositories.append(
+            {"repository": name, "count": listed_count, "subjects": subjects}
+        )
 
     def collect_items(nodes, key):
         items = []
@@ -161,7 +168,9 @@ def collect(token, collection, window_start, window_end):
             )
         return items
 
-    opened_pull_requests = collect_items(collection["pullRequestContributions"]["nodes"], "pullRequest")
+    opened_pull_requests = collect_items(
+        collection["pullRequestContributions"]["nodes"], "pullRequest"
+    )
     reviewed_pull_requests = collect_items(
         collection["pullRequestReviewContributions"]["nodes"], "pullRequest"
     )
@@ -169,9 +178,7 @@ def collect(token, collection, window_start, window_end):
 
     private_total = collection["restrictedContributionsCount"]
     private_total += max(collection["totalCommitContributions"] - public_commits, 0)
-    private_total += max(
-        collection["totalPullRequestContributions"] - len(opened_pull_requests), 0
-    )
+    private_total += max(collection["totalPullRequestContributions"] - len(opened_pull_requests), 0)
     private_total += max(
         collection["totalPullRequestReviewContributions"] - len(reviewed_pull_requests), 0
     )
@@ -273,14 +280,22 @@ ENTRY_HEADING = re.compile(r"^## (\d{4}-\d{2}-\d{2})", re.MULTILINE)
 def insert_in_date_order(existing, target_date, entry):
     for match in ENTRY_HEADING.finditer(existing):
         if match.group(1) > target_date.isoformat():
-            return existing[: match.start()].rstrip() + "\n\n" + entry + "\n" + existing[match.start() :]
+            return (
+                existing[: match.start()].rstrip()
+                + "\n\n"
+                + entry
+                + "\n"
+                + existing[match.start() :]
+            )
     return existing.rstrip() + "\n\n" + entry
 
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--date", help="IST date to log, YYYY-MM-DD (default: today in IST)")
-    parser.add_argument("--dry-run", action="store_true", help="print the entry instead of writing it")
+    parser.add_argument(
+        "--dry-run", action="store_true", help="print the entry instead of writing it"
+    )
     arguments = parser.parse_args()
 
     token = os.environ.get("GITHUB_TOKEN")

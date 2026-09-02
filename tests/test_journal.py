@@ -92,10 +92,16 @@ def test_the_window_spans_one_whole_ist_day_expressed_in_utc():
 
 
 def test_a_private_repository_is_never_named():
-    assert journal.public_repository_name({"repository": {"isPrivate": True, "nameWithOwner": "o/p"}}) is None
+    assert (
+        journal.public_repository_name({"repository": {"isPrivate": True, "nameWithOwner": "o/p"}})
+        is None
+    )
     assert journal.public_repository_name({"repository": {"nameWithOwner": "o/p"}}) is None
     assert journal.public_repository_name({}) is None
-    assert journal.public_repository_name({"repository": {"isPrivate": False, "nameWithOwner": "o/p"}}) == "o/p"
+    assert (
+        journal.public_repository_name({"repository": {"isPrivate": False, "nameWithOwner": "o/p"}})
+        == "o/p"
+    )
 
 
 def test_naming_a_repository_that_was_not_proven_public_is_refused():
